@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\bin\Debug\net8.0\ApiAdvice.exe
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\bin\Debug\net8.0\ApiAdvice.deps.json
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\bin\Debug\net8.0\ApiAdvice.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\bin\Debug\net8.0\ApiAdvice.dll
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\bin\Debug\net8.0\ApiAdvice.pdb
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.dll
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\refint\ApiAdvice.dll
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.pdb
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ApiAdvice.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\ApiAdvice\ApiAdvice\obj\Debug\net8.0\ref\ApiAdvice.dll

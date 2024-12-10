@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|c:\\users\\dyego.lima\\source\\repos\\apiadvice\\apiadvice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|solutionrelative:apiadvice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|c:\\users\\dyego.lima\\source\\repos\\apiadvice\\apiadvice\\models\\slip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|solutionrelative:apiadvice\\models\\slip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|c:\\users\\dyego.lima\\source\\repos\\apiadvice\\apiadvice\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09E1639-0D79-4FA1-84C3-60527E980377}|ApiAdvice\\ApiAdvice.csproj|solutionrelative:apiadvice\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ApiAdvice\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "ApiAdvice\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:28:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Slip.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Models\\Slip.cs",
+              "RelativeDocumentMoniker": "ApiAdvice\\Models\\Slip.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Models\\Slip.cs",
+              "RelativeToolTip": "ApiAdvice\\Models\\Slip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:35:51.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAdvice\\Program.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\ApiAdvice\\ApiAdvice\\Program.cs",
+              "RelativeToolTip": "ApiAdvice\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:32:50.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
